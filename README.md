@@ -1,7 +1,7 @@
 # 🔥 Motel del fuego
 - [Link do projeto](https://www.moteldelfuego.com.br/)
 
-### Site institucional criado pela o Motel del fuego localizado em Pelotas RS
+### Site institucional criado para o Motel del fuego localizado em Pelotas RS
 
 
 ## 🗒️ Features do projeto 🗒️
