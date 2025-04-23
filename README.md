@@ -20,4 +20,4 @@
 - [Codeigniter](https://www.codeigniter.com/)
 
 
-<small style="font-size: 10px">*Criado quando trabalhei na [Hostche](http://hostche.com.br)</small>
+<small style="font-size: 10px">*Criado quando trabalhei na [Hostche](http://www.hostche.com.br)</small>
