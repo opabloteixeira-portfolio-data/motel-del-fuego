@@ -1,4 +1,5 @@
 # 🔥 Motel del fuego
+- [Link do projeto](https://www.moteldelfuego.com.br/)
 
 ### Site institucional criado pela o Motel del fuego localizado em Pelotas RS
 
@@ -15,7 +16,8 @@
 - Integração com redes sociais
 
 ## 💎 Links úteis 💎
-- [PHP]((https://www.php.net/))
-- [codeigniter]((https://www.codeigniter.com/))
+- [PHP](https://www.php.net/)
+- [Codeigniter](https://www.codeigniter.com/)
 
-* Feito quando trabalhei na [Hostche](www.hostche.com.br)
+
+###### *Feito quando trabalhei na empresa hostche
