@@ -20,4 +20,4 @@
 - [Codeigniter](https://www.codeigniter.com/)
 
 
-###### *Feito quando trabalhei na empresa hostche
+<small style="font-size: 8px;"> *Feito quando trabalhei na empresa hostche </small>
